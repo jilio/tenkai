@@ -4,7 +4,7 @@
 
 Так как я недавно начал обучаться работе с ИИ по его лекциям, мне стало интересно отмечать свой прогресс в этой области и считать количество затраченного времени.
 
-## Прогресс: 7.1 / 10,000
+## Прогресс: 8.47 / 10,000
 
 Дата| Название | Время, мин | Ссылка | Тип
 ---|---|---|---|---
@@ -12,3 +12,4 @@
 11.05.2023 | основы python | 107 | [site](https://open-data-science.github.io/pycourse/) | онлайн-курс
 12.05.2023 | The spelled-out intro to neural networks and backpropagation: building micrograd | 248 | [youtube](https://www.youtube.com/watch?v=VMj-3S1tku0) | видео-лекция
 14.05.2023 | The spelled-out intro to language modeling: building makemore | 36 | [youtube](https://www.youtube.com/watch?v=PaCmpygFfXo) | видео-лекция
+17.05.2023 | The spelled-out intro to language modeling: building makemore | 82 | [youtube](https://www.youtube.com/watch?v=PaCmpygFfXo) | видео-лекция
