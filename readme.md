@@ -4,9 +4,9 @@
 
 Так как я недавно начал обучаться работе с ИИ по его лекциям, мне стало интересно отмечать свой прогресс в этой области и считать количество затраченного времени.
 
-## Прогресс: 9.73  / 10,000
+## Прогресс: 11.26  / 10,000
 
-584 минуты
+676 минут
 
 Дата| Чем занимался | Время, мин | Ссылка | Тип
 ---|---|---|---|---
@@ -17,3 +17,4 @@
 17.05.2023 | The spelled-out intro to language modeling: building makemore | 82 | [youtube](https://www.youtube.com/watch?v=PaCmpygFfXo) | видео-лекция
 18.05.2023 | Building makemore Part 2: MLP | 46 | [youtube](https://www.youtube.com/watch?v=TCH_1BHY58I) | видео-лекция
 19.05.2023 | Building makemore Part 2: MLP | 30 | [youtube](https://www.youtube.com/watch?v=TCH_1BHY58I) | видео-лекция
+19.05.2023 | Настроил jupyter на домашнем сервере и начал более вдумчиво повторять micrograd | 92 | [youtube](https://www.youtube.com/watch?v=VMj-3S1tku0) | видео-лекция
