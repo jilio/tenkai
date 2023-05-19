@@ -4,9 +4,11 @@
 
 Так как я недавно начал обучаться работе с ИИ по его лекциям, мне стало интересно отмечать свой прогресс в этой области и считать количество затраченного времени.
 
-## Прогресс: 9.23  / 10,000
+## Прогресс: 9.73  / 10,000
 
-Дата| Название | Время, мин | Ссылка | Тип
+584 минуты
+
+Дата| Чем занимался | Время, мин | Ссылка | Тип
 ---|---|---|---|---
 10.05.2023 | Attention Is All You Need | 35 | [arxiv](https://arxiv.org/abs/1706.03762) | научная статья
 11.05.2023 | основы python | 107 | [site](https://open-data-science.github.io/pycourse/) | онлайн-курс
@@ -14,5 +16,4 @@
 14.05.2023 | The spelled-out intro to language modeling: building makemore | 36 | [youtube](https://www.youtube.com/watch?v=PaCmpygFfXo) | видео-лекция
 17.05.2023 | The spelled-out intro to language modeling: building makemore | 82 | [youtube](https://www.youtube.com/watch?v=PaCmpygFfXo) | видео-лекция
 18.05.2023 | Building makemore Part 2: MLP | 46 | [youtube](https://www.youtube.com/watch?v=TCH_1BHY58I) | видео-лекция
-
-554 минуты
+19.05.2023 | Building makemore Part 2: MLP | 30 | [youtube](https://www.youtube.com/watch?v=TCH_1BHY58I) | видео-лекция
