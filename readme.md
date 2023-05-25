@@ -4,9 +4,9 @@
 
 Так как я недавно начал обучаться работе с ИИ по его лекциям, мне стало интересно отмечать свой прогресс в этой области и считать количество затраченного времени.
 
-## Прогресс: 11.98  / 10,000
+## Прогресс: 12.3  / 10,000
 
-719 минут
+738 минут
 
 Дата| Чем занимался | Время, мин | Ссылка | Тип
 ---|---|---|---|---
@@ -19,3 +19,4 @@
 19.05.2023 | Building makemore Part 2: MLP | 30 | [youtube](https://www.youtube.com/watch?v=TCH_1BHY58I) | видео-лекция
 19.05.2023 | Настроил jupyter на домашнем сервере и начал более вдумчиво повторять micrograd | 92 | [youtube](https://www.youtube.com/watch?v=VMj-3S1tku0) | видео-лекция
 24.05.2023 | State of GPT | 43 | [site](https://build.microsoft.com/en-US/sessions/db3f4859-cd30-4445-a0cd-553c3304f8e2) | видео-лекция
+25.05.2023 | PyTorch Tutorial 02 - Tensor Basics | 19 | [youtube](https://www.youtube.com/watch?v=exaWOE8jvy8) | видео-лекция
